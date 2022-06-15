@@ -7,5 +7,7 @@ Separated the data from the music.csv dataset, first two columns (age, gender) a
 Then, split the data into two data, one for training purposes and the other for test purposes, to see the accuracy of the prediction.
 
 ## Project02_Persisting_Models
+Learned how to save the trained model so we can predict it without having to train the model every time we need prediction.
 
 ## Project03_Visualizing_Decision_Tree
+Learned how to make a tree diagram to visualize the steps that models take to make a prediction.
