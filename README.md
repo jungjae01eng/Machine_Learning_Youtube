@@ -8,6 +8,8 @@ Then, split the data into two data, one for training purposes and the other for 
 
 ## Project02_Persisting_Models
 Learned how to save the trained model so we can predict it without having to train the model every time we need prediction.
+* If you run the code, it will create "music-recommender.joblib," and the trained model will be saved there.
 
 ## Project03_Visualizing_Decision_Tree
 Learned how to make a tree diagram to visualize the steps that models take to make a prediction.
+* If you run the code, it will create "music-recommender.dot." Place this dot into either VS code or Pycharm CE; then, it will show the tree diagram.
