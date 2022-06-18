@@ -1,5 +1,5 @@
 # Machine_Learning_Youtube
-These codes are from Python Machine Learning Tutorial (Data Science) by Programming with Mosh on the Youtube Channel.
+These codes in Project01, Project02, and Project03 are from Python Machine Learning Tutorial (Data Science) by Programming with Mosh on the Youtube Channel.
 I used this to learn and practice Machine Learning with Python.
 Each project covered diverse skills and was able to explore different types of problems.
 
