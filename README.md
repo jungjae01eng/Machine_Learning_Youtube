@@ -18,4 +18,4 @@ Learned how to make a tree diagram to visualize the steps that models take to ma
 * If you run the code, it will create "music-recommender.dot." Place this dot into either VS code or Pycharm CE; then, it will show the tree diagram.
 
 ## Project04_Stock_Price_Prediction
-In Progress...
+Experienced "real-life" scenarios. Tried to understand the thought process and why he(YouTuber) used the specific machine learning method to predict the Stock market price.
