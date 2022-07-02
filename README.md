@@ -19,3 +19,6 @@ Learned how to make a tree diagram to visualize the steps that models take to ma
 
 ## Project04_Stock_Price_Prediction
 Experienced "real-life" scenarios. Tried to understand the thought process and why he(YouTuber) used the specific machine learning method to predict the Stock market price.
+
+## Project05_Buy_or_Sell_Stock
+In Progress...
